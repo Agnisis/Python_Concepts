@@ -1,0 +1,1 @@
+print(chr(j+65), end=" ")
